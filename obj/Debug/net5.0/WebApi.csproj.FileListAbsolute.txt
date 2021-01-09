@@ -35,3 +35,5 @@ C:\Users\vinay\OneDrive\Desktop\C#\WebApi\obj\Debug\net5.0\WebApi.dll
 C:\Users\vinay\OneDrive\Desktop\C#\WebApi\obj\Debug\net5.0\ref\WebApi.dll
 C:\Users\vinay\OneDrive\Desktop\C#\WebApi\obj\Debug\net5.0\WebApi.pdb
 C:\Users\vinay\OneDrive\Desktop\C#\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache
+C:\Users\vinay\OneDrive\Desktop\C#\WebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\vinay\OneDrive\Desktop\C#\WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
