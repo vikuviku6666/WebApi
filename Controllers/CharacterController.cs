@@ -15,6 +15,7 @@ namespace WebApi.Controllers
 
         public CharacterController(ICharacterService characterService)
         {
+        
             _characterService = characterService;
 
         }
@@ -26,7 +27,7 @@ namespace WebApi.Controllers
         }
 
         [HttpGet("{id}")]
-        public async  Task<IActionResult> GetSingle(int id)
+        public async Task<IActionResult> GetSingle(int id)
         {
             return Ok(await _characterService.GetCharacterById(id));
         }

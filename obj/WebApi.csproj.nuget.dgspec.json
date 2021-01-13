@@ -64,6 +64,16 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
+            },
+            "microsoft.EntityFrameworkcore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "microsoft.EntityFrameworkcore.sqlite": {
+              "target": "Package",
+              "version": "[5.0.1, )"
             }
           },
           "imports": [

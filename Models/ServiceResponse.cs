@@ -9,9 +9,6 @@ namespace WebApi.Models
         public bool success { get; set; } = true;
         public string Message { get; set; } = null;
 
-        public static implicit operator ServiceResponse<T>(ServiceResponse<GetCharacterDto> v)
-        {
-            throw new NotImplementedException();
-        }
+     
     }
 }
